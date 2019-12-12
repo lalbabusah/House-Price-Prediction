@@ -1,1 +1,1 @@
-# IBM Machine Learning Project
+# Machine Learning Project by IBM/Coursera
