@@ -1,1 +1,1 @@
-# Machine Learning Project by IBM/Coursera
+# Prediction of House price in King County using Machine Learning Algorithm
