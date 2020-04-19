@@ -1,9 +1,13 @@
 ## Table of contents
-### Introduction
-### Data Acquisition
-### Data Wrangling
-### Data Exploration
-### Model Development
+Introduction
+
+Data Acquisition
+
+Data Wrangling
+
+Data Exploration
+
+Model Development
 
 ## Data Acquisition
 Downloaded data from the IBM Cloud object for data analysis.
