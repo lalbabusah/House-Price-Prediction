@@ -8,5 +8,5 @@ Used Python Libraries(Pandas, NumPy) on Jupyter notebook platform for data prepr
 Used Python libraries(seaborn) for data visualisation and analysis.
 
 ## Data Model
-Used Supervised Machine Learning model Linear Regression for price prediction.
+Supervised Machine Learning model Linear Regression for price prediction.
 
