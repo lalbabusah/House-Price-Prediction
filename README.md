@@ -13,7 +13,7 @@ Model Development
 Downloaded data from the IBM Cloud object for data analysis.
 
 ## Data Wrangling
-Used Python Libraries(Pandas, NumPy) on Jupyter notebook platform for data preprocessing and cleaning.
+Used Python Libraries(Pandas, NumPy) on Jupyter notebook platform for data cleaning and preprocessing.
 
 ## Data Exploration
 Used Python libraries(seaborn) for data visualisation and analysis.
